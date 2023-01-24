@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d62e60af.css",
+    "main.js": "/static/js/main.4fc8e248.js",
+    "static/media/img1.jpg": "/static/media/img1.2643381d7f359d33171f.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.721da32db47685df8d83.jpg",
+    "static/media/backImg.jpg": "/static/media/backImg.9ea737486ce7bca93b18.jpg",
+    "static/media/frontImg.jpg": "/static/media/frontImg.e3a836e6c1ba3066e530.jpg",
+    "static/media/1.png": "/static/media/1.1977f2c21d488e17a026.png",
+    "static/media/undraw_gardening_re_e658.svg": "/static/media/undraw_gardening_re_e658.4e90a6c07f4353acf7e4f7f62e58ed39.svg",
+    "static/media/undraw_chef_cu-0-r.svg": "/static/media/undraw_chef_cu-0-r.c4e52c8fddf5d33675046178e41f8a99.svg",
+    "static/media/undraw_medical_care_movn.svg": "/static/media/undraw_medical_care_movn.bf5f5616b2680df855fc95fd2ac02ff9.svg",
+    "static/media/undraw_interior_design_re_7mvn.svg": "/static/media/undraw_interior_design_re_7mvn.7af3fbe358f55be619753aad31c119d4.svg",
+    "static/media/undraw_takeout_boxes_ap54.svg": "/static/media/undraw_takeout_boxes_ap54.476ec0f59deac569b87d53cf27377671.svg",
+    "static/media/undraw_coffee_break_h3uu.svg": "/static/media/undraw_coffee_break_h3uu.40c5c779ebb74cc92767cf5d9788bafd.svg",
+    "static/media/undraw_add_color_re_buro.svg": "/static/media/undraw_add_color_re_buro.edb21eab1fe88234152951ad502f064f.svg",
+    "static/media/undraw_cooking_lyxy.svg": "/static/media/undraw_cooking_lyxy.c6c3846bb330ebb5c978762d781e8995.svg",
+    "static/media/undraw_motherhood_re_pk2m.svg": "/static/media/undraw_motherhood_re_pk2m.5af93fe17334327218e8172b297f0e50.svg",
+    "index.html": "/index.html",
+    "main.d62e60af.css.map": "/static/css/main.d62e60af.css.map",
+    "main.4fc8e248.js.map": "/static/js/main.4fc8e248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d62e60af.css",
+    "static/js/main.4fc8e248.js"
+  ]
+}
